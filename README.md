@@ -15,15 +15,15 @@
 
 
 
-- 👨‍💻 Some of my projects are available at [https://chandrashekhar.netlify.app/](https://chandrashekhar.netlify.app/)
+ 👨‍💻 Some of my projects are available at [https://chandrashekhar.netlify.app/](https://chandrashekhar.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@shekharmaybe](https://medium.com/@shekharmaybe)
+ 📝 I regularly write articles on [https://medium.com/@shekharmaybe](https://medium.com/@shekharmaybe)
 
-- 💬 Ask me about **React JS, Frontend Development, JavaScript**
+ 💬 Ask me about **React JS, Frontend Development, JavaScript**
 
-- 📫 How to reach me **shekharmaybe@gmail.com**
+ 📫 How to reach me **shekharmaybe@gmail.com**
 
-- ⚡ Fun fact **I am a caffeine addict**
+ ⚡ Fun fact **I am a caffeine addict**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
