@@ -12,9 +12,9 @@
 
   ![github-user-contribution](https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only)
 
-</div>
 
-<div align="center">
+
+
 - 👨‍💻 Some of my projects are available at [https://chandrashekhar.netlify.app/](https://chandrashekhar.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@shekharmaybe](https://medium.com/@shekharmaybe)
