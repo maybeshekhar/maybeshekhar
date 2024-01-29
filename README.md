@@ -15,7 +15,7 @@
 
 
 
- 👨‍💻 Some of my projects are available at [https://chandrashekhar.netlify.app/](https://jenamoni.tech/)
+ 👨‍💻 Some of my projects are available at (https://jenamoni.tech/)
 
  📫 How to reach me **shekharmaybe.dev@gmail.com**
 
